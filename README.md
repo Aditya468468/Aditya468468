@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya468468
 - 👀 I’m interested in Full stack Development, Competetive Coding etc
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: Linkdln -> https://www.linkedin.com/in/aditya-singh-83349628a/
+- 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/aditya-singh-83349628a/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
